@@ -6,9 +6,9 @@ Welcome to the Agrilens project repository. This repository serves as the centra
 
 The project is organized into the following repositories:
 
-- [Documentation](../docs) - Project documentation, deployment guides, and developer guides
-- [Frontend](../agrilens-frontend) - Frontend application built with JavaScript
-- [Backend](../agrilens-backend) - Backend services and API
+- [Documentation](https://github.com/agrilens/docs) - Project documentation, deployment guides, and developer guides
+- [Frontend](https://github.com/agrilens/agrilens-frontend) - Frontend application built with JavaScript
+- [Backend](https://github.com/agrilens/agrilens-backend) - Backend services and API
 
 ## Getting Started
 
@@ -27,6 +27,8 @@ The project is organized into the following repositories:
 - Documentation: [github.com/agrilens/docs](https://github.com/agrilens/docs)
 - Frontend: [github.com/agrilens/agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
 - Backend: [github.com/agrilens/agrilens-backend](https://github.com/agrilens/agrilens-backend)
+- Deployment guide: [deployment-guide.md](https://github.com/agrilens/docs/blob/main/deployment-guide.md)
+- Developer guide: [developer-guide.md](https://github.com/agrilens/docs/blob/main/developer-guide.md)
 
 ## License
 
