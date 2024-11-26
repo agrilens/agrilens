@@ -1,16 +1,8 @@
 # Agrilens Project
 
-Welcome to the Agrilens project repository. This repository serves as the central hub for the Agrilens project, which is distributed across three repositories for organization:
-- [agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
-- [agrilens-backend](https://github.com/agrilens/agrilens-backend)
-- [docs](https://github.com/agrilens/docs)
-
-## Project Structure
-
-The project is organized into the following repositories:
-
-- [Documentation](https://github.com/agrilens/docs) - Project documentation, deployment guides, and developer guides
-- [Frontend](https://github.com/agrilens/agrilens-frontend) - Frontend application built with JavaScript
+Welcome to the Agrilens project repository. This repository serves as the central hub for the Agrilens project, contains three repositories for organization and user-friendliness:
+- [Documentation](https://github.com/agrilens/docs) - Project documentation, deployment guide, developer guide as well as requirements, design decisions, test reports, and other artifacts
+- [Frontend](https://github.com/agrilens/agrilens-frontend) - Frontend application
 - [Backend](https://github.com/agrilens/agrilens-backend) - Backend services and API
 
 ## Quick Repository Links
