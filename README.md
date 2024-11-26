@@ -10,25 +10,25 @@ The project is organized into the following repositories:
 - [Frontend](https://github.com/agrilens/agrilens-frontend) - Frontend application built with JavaScript
 - [Backend](https://github.com/agrilens/agrilens-backend) - Backend services and API
 
+## Quick Repository Links
+- Deployment guide: [deployment-guide.md](https://github.com/agrilens/docs/blob/main/deployment-guide.md)
+- Developer guide: [developer-guide.md](https://github.com/agrilens/docs/blob/main/developer-guide.md)
+- Documentation: [github.com/agrilens/docs](https://github.com/agrilens/docs)
+- Frontend: [github.com/agrilens/agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
+- Backend: [github.com/agrilens/agrilens-backend](https://github.com/agrilens/agrilens-backend)
+
 ## Getting Started
 
-1. **Documentation**: Begin by reviewing our documentation repository for:
+1. **Documentation**: Begin by reviewing our [documentation repository](https://github.com/agrilens/docs/) for:
    - System architecture overview
-   - Deployment guides
+   - Deployment guide
    - Developer setup instructions
+   - Meeting notes on design requirements, decisions, validation test results, and other artifacts
 
 2. **Development Setup**: 
    - Clone the frontend repository for UI development
    - Clone the backend repository for service development
    - Follow the developer guide in the docs repository for environment setup
-
-## Repository Links
-
-- Documentation: [github.com/agrilens/docs](https://github.com/agrilens/docs)
-- Frontend: [github.com/agrilens/agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
-- Backend: [github.com/agrilens/agrilens-backend](https://github.com/agrilens/agrilens-backend)
-- Deployment guide: [deployment-guide.md](https://github.com/agrilens/docs/blob/main/deployment-guide.md)
-- Developer guide: [developer-guide.md](https://github.com/agrilens/docs/blob/main/developer-guide.md)
 
 ## License
 
