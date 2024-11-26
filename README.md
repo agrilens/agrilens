@@ -12,6 +12,17 @@ Welcome to the Agrilens project repository. This repository serves as the centra
 - Frontend: [github.com/agrilens/agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
 - Backend: [github.com/agrilens/agrilens-backend](https://github.com/agrilens/agrilens-backend)
 
+# Agrilens: Plant Health Identification Service
+Agrilens is a scrum-based project developing a service to 
+  - Identify plant health for resource-constrained farmers
+  - Aggregate and analyze plant health data
+  - Provide insights based on data collected to help save labor and resources
+
+## Project Status
+- The latest build of the project is deployed at [Agrilens-web](https://agrilens-web.web.app/).
+- We are iterating on the application's design and incorporating end user and stakeholder feedback.
+- For questions or suggestions about the project or documentation, please contact Jessica or Blair, or open a GitHub issue.
+
 ## Getting Started
 
 1. **Documentation**: Begin by reviewing our [documentation repository](https://github.com/agrilens/docs/) for:
