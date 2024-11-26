@@ -1,6 +1,9 @@
 # Agrilens Project
 
-Welcome to the Agrilens project repository. This repository serves as the central hub for the Agrilens project, which is distributed across multiple repositories.
+Welcome to the Agrilens project repository. This repository serves as the central hub for the Agrilens project, which is distributed across three repositories for organization:
+- [agrilens-frontend](https://github.com/agrilens/agrilens-frontend)
+- [agrilens-backend](https://github.com/agrilens/agrilens-backend)
+- [docs](https://github.com/agrilens/docs)
 
 ## Project Structure
 
@@ -49,6 +52,6 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Last updated 11-19-2024
+Last updated 11-26-2024
 Contributor: Blair
 Produced with help from Claude 3.5 LLM. See [conversation link](https://claude.site/artifacts/84c232c7-7ec0-4613-a9b4-3d4ce6709459).
